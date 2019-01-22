@@ -16,3 +16,4 @@ An App for local CCTV Vendor to track warranty for products with serial no (Barc
 This Repo shows the react native part.
 
 
+Get the UI Screenshots: https://drive.google.com/drive/folders/1ObSjjcvB3s1RPb98I5yo3qUWeu4y1FLs
